@@ -1,4 +1,8 @@
-# IXFI Labs
+<div align="center">
+    <a href="https://ixfi.network.com">
+        <img alt="logo" src="https://github.com/IXFILabs/IXFI-Frontend/blob/main/public/images/logo.png" style="width: 240px;">
+    </a>
+</div>
 
 ## 🚀 Welcome to IXFI Labs
 IXFI Labs is dedicated to building next-generation cross-chain interoperability solutions using the **Interoperable XFI (IXFI) Protocol**. Our mission is to enable seamless, gas-efficient, and highly programmable cross-chain transactions, driving adoption and utility for **XFI**, the native token of the **CrossFi Chain**.

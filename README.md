@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://ixfi.network.com">
-        <img alt="logo" src="https://github.com/IXFILabs/IXFI-Frontend/blob/main/public/images/logo.png" style="width: 240px;">
+        <img alt="logo" src="https://github.com/IXFILabs/IXFILabs/blob/main/public/IXFI-PitchDeck-Cover.png" style="width: 640px;">
     </a>
 </div>
 

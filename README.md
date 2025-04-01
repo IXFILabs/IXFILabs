@@ -60,12 +60,19 @@ We are committed to **open-source development** and actively contribute to build
 - **📡 Bridge & Message Passing Protocols** – Enabling cross-chain interactions. 
 - **📊 DEX Aggregation & Liquidity Routing** – Efficient XFI-powered trading solutions.
 
+## Open Source Repository
+
+**Smart Contract**: [https://github.com/IXFILabs/IXFI-Contracts](https://github.com/IXFILabs/IXFI-Contracts)
+**Frontend**: [https://github.com/IXFILabs/IXFI-Frontend](https://github.com/IXFILabs/IXFI-Frontend)
+**MetaTxRelayer**: [https://github.com/IXFILabs/IXFI-Relayer](https://github.com/IXFILabs/IXFI-Relayer)
+
+
 ## 📌 Join Us
 🚀 **IXFI Labs** is actively seeking **developers, researchers, and contributors** passionate about building the future of cross-chain finance. Get involved!
 
-- **Website:** [Coming Soon]
+- **Website:** [https://ixfi-network.vercel.app](https://ixfi-network.vercel.app)
 - **Twitter:** [@IXFILabs](#)
 - **Discord:** [Join the Community](#)
-- **Docs:** [IXFI Protocol Documentation](#)
+- **Docs:** [PDF document](https://github.com/IXFILabs/IXFILabs/blob/main/protocol-documentation.pdf)
 
 📢 Stay tuned for updates, and let’s build the future of **cross-chain interoperability** together! 🔥

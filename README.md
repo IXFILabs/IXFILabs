@@ -62,9 +62,9 @@ We are committed to **open-source development** and actively contribute to build
 
 ## Open Source Repository
 
-**Smart Contract**: [https://github.com/IXFILabs/IXFI-Contracts](https://github.com/IXFILabs/IXFI-Contracts)
-**Frontend**: [https://github.com/IXFILabs/IXFI-Frontend](https://github.com/IXFILabs/IXFI-Frontend)
-**MetaTxRelayer**: [https://github.com/IXFILabs/IXFI-Relayer](https://github.com/IXFILabs/IXFI-Relayer)
+- **Smart Contract**: [https://github.com/IXFILabs/IXFI-Contracts](https://github.com/IXFILabs/IXFI-Contracts)
+- **Frontend**: [https://github.com/IXFILabs/IXFI-Frontend](https://github.com/IXFILabs/IXFI-Frontend)
+- **MetaTxRelayer**: [https://github.com/IXFILabs/IXFI-Relayer](https://github.com/IXFILabs/IXFI-Relayer)
 
 
 ## 📌 Join Us

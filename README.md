@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://ixfi.network.com">
-        <img alt="logo" src="https://github.com/IXFILabs/IXFILabs/blob/main/IXFI-PitchDeck-Cover.png" style="width: 320px;">
+        <img alt="logo" src="https://github.com/IXFILabs/IXFILabs/blob/main/IXFI-banner.png" style="width: 100%;">
     </a>
 </div>
 
@@ -76,3 +76,9 @@ We are committed to **open-source development** and actively contribute to build
 - **Docs:** [PDF document](https://github.com/IXFILabs/IXFILabs/blob/main/protocol-documentation.pdf)
 
 📢 Stay tuned for updates, and let’s build the future of **cross-chain interoperability** together! 🔥
+
+<div align="center">
+    <a href="https://ixfi.network.com">
+        <img alt="logo" src="https://github.com/IXFILabs/IXFILabs/blob/main/IXFI-PitchDeck-Cover.png" style="width: 320px;">
+    </a>
+</div>
